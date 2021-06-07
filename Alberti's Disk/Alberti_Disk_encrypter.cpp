@@ -27,6 +27,8 @@ int main()
     {
         cout<<m;
     }
-    return 0;
+    cout<<endl<<endl;
+    cout<<"                                    Created By karandeeppotato :)";
+    cout<<endl<<endl;
     system("pause");
 }
